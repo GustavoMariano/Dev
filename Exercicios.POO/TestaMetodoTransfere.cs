@@ -6,7 +6,7 @@ namespace Exercicios.POO
 {
     class TestaMetodoTransfere
     {
-        public static void Main()
+        public static void Main_()
         {
             Conta origem = new Conta();
             origem.saldo = 1000;

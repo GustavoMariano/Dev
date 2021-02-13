@@ -17,7 +17,7 @@ namespace Exercicios.POO
 
             Cliente c = new Cliente();
             c.codigo = 234324;
-            c.nome = "Thiago Sartor";
+            c.nome = "Gustavo Mariano";
 
             cdc2.cliente = c;
 

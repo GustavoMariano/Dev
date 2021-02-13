@@ -13,7 +13,7 @@ namespace Exercicios.POO
             c1.codigo = 1;
 
             Cliente c2 = new Cliente();
-            c2.nome = "Thiago";
+            c2.nome = "Abc123";
             c2.codigo = 2;
 
             System.Console.WriteLine(c1.nome);
