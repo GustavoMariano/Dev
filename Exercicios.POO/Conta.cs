@@ -11,7 +11,12 @@ namespace Exercicios.POO
         public double saldo;
         public Agencia agencia;
 
-        public Conta()
+        //public Conta()
+        //{
+        //    this.agencia = agencia;
+        //}
+
+        public Conta(Agencia agencia)
         {
             this.agencia = agencia;
         }
